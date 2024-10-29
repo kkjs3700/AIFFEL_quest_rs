@@ -6,7 +6,7 @@
 ---
 
 ## 레포 구조는 다음과 같습니다.
-"""
+'''bash
 AIFFEL_quest_rs  
 ├── MainQuest  
 │   ├── Quest01  
@@ -76,4 +76,4 @@ AIFFEL_quest_rs
 │   └── Gd09  
 │       ├── .ipynb  
 │       └── README.md  
-"""
+'''
