@@ -28,7 +28,8 @@ AIFFEL_quest_rs
 │  
 ├── Exploration  
 │   ├── Ex01  
-│   │   ├── .ipynb  
+│   │   ├── Diabetes_pre_11.04.ipynb  
+│   │   ├── bike_pr_11.04.ipynb  
 │   │   └── README.md  
 │   ├── Ex02  
 │   │   ├── .ipynb  
