@@ -32,7 +32,7 @@ AIFFEL_quest_rs
 │   │   ├── bike_pr_11.04.ipynb  
 │   │   └── README.md  
 │   ├── Ex02  
-│   │   ├── .ipynb  
+│   │   ├── pr2(house_price)_11.05.ipynb  
 │   │   └── README.md  
 │   ├── Ex03  
 │   │   ├── .ipynb  
