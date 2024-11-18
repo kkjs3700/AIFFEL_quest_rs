@@ -35,7 +35,7 @@ AIFFEL_quest_rs
 │   │   ├── pr2(house_price)_11.05.ipynb  
 │   │   └── README.md  
 │   ├── Ex03  
-│   │   ├── .ipynb  
+│   │   ├── camera_sticker_pr_11.19.ipynb  
 │   │   └── README.md  
 │   ├── Ex04  
 │   │   ├── .ipynb  
