@@ -38,16 +38,16 @@ AIFFEL_quest_rs
 │   │   ├── camera_sticker_pr_11.19.ipynb  
 │   │   └── README.md  
 │   ├── Ex04  
-│   │   ├── .ipynb  
+│   │   ├── human_segmentation_pr_11.20.ipynb  
 │   │   └── README.md  
 │   ├── Ex05  
-│   │   ├── .ipynb  
+│   │   ├── sentiment_classification_pr(2_edit)_11.25.ipynb  
 │   │   └── README.md  
 │   ├── Ex06  
-│   │   ├── .ipynb  
+│   │   ├── Text_Summarization_pr_11.26.ipynb  
 │   │   └── README.md  
 │   └── Ex07  
-│       ├── .ipynb  
+│       ├── Chatbot_by_Transformer_pr_12.02.ipynb  
 │       └── README.md  
 │    
 ├── GoingDeeper  
